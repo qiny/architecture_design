@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T11:01:12.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="7ty3PcqC-AMk6zej3oT9" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T11:02:38.767Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="A5p-2KfpjyD_pDL6Ah0g" version="14.4.9" type="github">
   <diagram id="Ow_AVmy7Ml7WNaqZmlaC" name="Page-1">
-    <mxGraphModel dx="1331" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="484" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,9 +184,6 @@
         </mxCell>
         <mxCell id="CxhGN7uguc151sI_CERg-12" value="精准测试" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#ffffff;fillColor=#E05D00;strokeColor=none;" parent="CxhGN7uguc151sI_CERg-39" vertex="1">
           <mxGeometry x="25" y="200" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CxhGN7uguc151sI_CERg-40" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px&quot;&gt;组&lt;br&gt;织&lt;br&gt;保&lt;br&gt;障&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="30" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CxhGN7uguc151sI_CERg-41" value="目标对齐" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#ffffff;fillColor=#008a00;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="100" y="120" width="90" height="40" as="geometry" />
