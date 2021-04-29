@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T05:38:22.235Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="mCEndlbpBoxuPEWyFsma" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-29T05:38:40.974Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="wWXUGdHzaKu-ln1BbBRy" version="14.6.6" type="github">
   <diagram id="Ow_AVmy7Ml7WNaqZmlaC" name="Page-1">
     <mxGraphModel dx="821" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -228,9 +228,6 @@
         </mxCell>
         <mxCell id="Rk4vVzOvWR1lfrGUiNAf-130" value="故障追责" style="rounded=1;dashed=1;fontSize=10;align=center;fontColor=#ffffff;strokeColor=none;fontStyle=1;fillColor=#FD8494;" parent="1" vertex="1">
           <mxGeometry x="669.9999999999999" y="646" width="73.87" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dPRBLupptwf6xVlK58UV-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.contact_badge_pressed;" vertex="1" parent="1">
-          <mxGeometry x="620" y="290" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dPRBLupptwf6xVlK58UV-9" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="836" y="196.5" width="80" height="159" as="geometry" />
